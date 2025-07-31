@@ -31,5 +31,3 @@ That's why they must manually install hooks using `pre-commit install`.
 | 4 | `pre-commit run --all-files` | (Optional) Run all hooks manually |
 
 ---
-
-Let me know if you want to **enforce it in CI/CD**, or **auto-check it in PRs** too!
